@@ -1,31 +1,5 @@
-form{
-  color: aqua;
-}
-
 body{
   background: #ffffff;
-}
-
-#mainInput{
-  height: 28px;
-  width: 70%;
-  margin: 10px;
-  border-radius: 10px;
-  font-size: 20px;
-}
-
-#check{
-	height: 28px;
-	width: 30px;
-  border-radius: 10px;
-  font-size: 20px;
-}
-
-
-.content{
-  width: 500px;
-  height: 100px;
-  margin: 0 auto;
 }
 
 .defText{
@@ -73,7 +47,6 @@ body{
 	top:1px;
 }
 
-
 .removeButton {
 	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
 	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
@@ -115,11 +88,20 @@ body{
 	top:1px;
 }
 
-#removeButtonId{
-  margin-left: 41%;
-  margin-top: 10px;  
+#mainInput{
+  height: 28px;
+  width: 70%;
+  margin: 10px;
+  border-radius: 10px;
+  font-size: 20px;
 }
 
+#check{
+	height: 28px;
+	width: 30px;
+  border-radius: 10px;
+  font-size: 20px;
+}
 
 #title{
   text-align: center;
